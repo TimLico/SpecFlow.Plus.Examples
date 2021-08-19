@@ -1,6 +1,7 @@
 Feature: Test YubiKey PIV applcation
 
 # The first example has three steps
+@YubiKey PIV Tests
 Scenario: Verify that if the PIN is disabled and the user enters wrong PUK value 3 times,
           the user later can perform a complete reset to unblock the key
     Given PivSessio was created
