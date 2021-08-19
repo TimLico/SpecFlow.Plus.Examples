@@ -1,4 +1,4 @@
-Feature: Test YubiKey PIV applcation
+Feature: Test YubiKey PIV application
 
 # The first example has three steps
 @YubiKey PIV Tests
